@@ -1,0 +1,119 @@
+table {
+    border: 1px solid white;
+    border-collapse: collapse;
+ 
+ 
+}
+
+.link {
+    border: 1px solid white;
+    height: 40px;
+ 
+}
+
+.fri {
+    
+    background-color: aqua;
+    color: white;
+    width: 70px;
+    text-align: center;
+
+   
+}
+
+.bas {
+    background-color: green;
+    color: white;
+    width: 70px;
+    text-align: center;
+    
+}
+
+.stan {
+    background-color: rgb(211, 211, 11);
+    color: white;
+    width: 70px;
+    text-align: center;
+}
+
+.prem {
+    background-color: red;
+    color: white;
+    width: 70px;
+    text-align: center;
+}
+
+
+.main {
+    border: 1px solid white;
+}
+
+.zag {
+    
+    background-color: grey;
+    padding-bottom: 40px;
+    
+}
+
+.dw {
+    border: 1px solid white;
+}
+
+.pri {
+    background-color: grey;
+    border: 1px solid white;
+    font-weight: bold;
+    height: 40px;
+}
+
+tr {
+    border: 0px;
+}
+
+.diva {
+    border: 1px solid black;
+    width: auto;
+} */
+
+
+body {
+    text-align: center; 
+    display: inline-flex;
+     } 
+
+        div {
+            width: 200px;
+            /* min-width: 700px;
+            max-width: 1200px; */
+            /* margin: 0 auto; */
+            /* background-color: coral; */ 
+            /* height: 200px;
+            overflow: auto; */
+         } 
+        
+        .exp {
+            background-color: black;
+            color: white;
+        }
+
+        #exp1 {
+            border: 2px solid blue;
+
+        }
+
+        #exp2 {
+            border: 2px dashed blue;
+        }
+
+        #exp3 {
+            border: 2px dotted blue;
+        }
+
+        #exp4 {
+            border: 2px double blue;
+        }
+
+        #exp5 {
+            border: 2px ridge blue;
+        } 
+
